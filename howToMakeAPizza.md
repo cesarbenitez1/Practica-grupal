@@ -8,3 +8,5 @@
 8. Extiende la salsa de tomate sobre la masa.
 9. Agrega los ingredientes de tu elección, como queso, pepperoni y verduras.
 10. Hornea la pizza en el horno precalentado durante 12-15 minutos, o hasta que esté dorada y crujiente
+11. Cortar la pizza 
+12. Servir la pizza
