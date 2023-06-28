@@ -7,3 +7,25 @@
 
 
 ### Sigue los siguientes pasos y prepárate para disfrutar de una increíble experiencia culinaria.
+
+
+
+
+
+
+
+# Colaboradores
+
+- Salome Murcia
+- Salomufa22
+
+- Julian Jimenez
+- Julianragnarjimenez
+
+- Cesar Benitez
+- cesarbenitez1
+
+- Damian
+- damiandatascience
+- 
+
