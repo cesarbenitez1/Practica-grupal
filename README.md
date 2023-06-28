@@ -17,16 +17,16 @@
 
 # Colaboradores
 
-- Salome Murcia
-- Salomufa22
+- Salome Murcia - Salomufa22
+---
 
-- Julian Jimenez
-- Julianragnarjimenez
+- Julian Jimenez - Julianragnarjimenez
+---
 
-- Cesar Benitez
-- cesarbenitez1
+- Cesar Benitez - cesarbenitez1
+---
 
-- Damian
-- damiandatascience
-- 
+- Damian - damiandatascience
+---
+  
 
