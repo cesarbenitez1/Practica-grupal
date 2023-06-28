@@ -6,7 +6,7 @@
 ## ¡Bienvenido al tutorial de cómo hacer una pizza casera! Aquí encontrarás una guía paso a paso para crear una pizza deliciosa desde cero.
 
 
-### Sigue los siguientes pasos detallaods en el archivo principal y prepárate para disfrutar de una increíble experiencia culinaria.
+### Sigue los siguientes pasos detallados en el archivo principal y prepárate para disfrutar de una increíble experiencia culinaria.
 
 ---
 
