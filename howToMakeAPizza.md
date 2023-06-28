@@ -1,3 +1,25 @@
+# ¿Cómo hacer una Pizza?
+## Recipientes
+* Una bandeja metálica para poner la masa de pizza.
+*Un rodillo de madera para estirar la masa.
+* Papel de horno.
+* 1 cuchara medidora.
+* Un bol.
+* Horno.
+---
+## Ingredientes 
+* 200 militros de agua tibia.
+* 1 cucharada de azúcar refinada.
+* 20 gramos de levadura seca.
+* 500 gramos de harina de trigo.
+* 1 cucharada de sal.
+* 30 mililitros de aceite de oliva.
+* Peperoni al gusto.
+* Verduras al gusto.
+* 1 taza de queso mozarella.
+* Salsa de tomate.
+---
+## Procedimiento
 1. Mezcla harina, agua tibia, sal y levadura para hacer la masa.
 2. Deja reposar la masa durante 1 hora.
 3. Saltea ajo en aceite de oliva y agrega tomate triturado para hacer la salsa.
